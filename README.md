@@ -1,2 +1,5 @@
-# pet-projects
-There is nothing here yet, but it will be soon :)
+# My pet projects
+
+## Lang
+
+- [Java](https://github.com/mrzg9s/pet-projects/java)
